@@ -16,6 +16,8 @@
 - freeze
 - joinlogs
 - disable chat
+- remove fame
+- decal spam (takes about 3 mins)
 
 ## Loadstring
 ```lua
