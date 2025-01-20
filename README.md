@@ -19,5 +19,5 @@
 
 ## Loadstring
 ```lua
- loadstring(game:HttpGet('getting link later'))()
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/jurylmao/LPIAdmin/refs/heads/main/Script.lua'))()
 ```
