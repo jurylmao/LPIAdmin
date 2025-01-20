@@ -16,3 +16,8 @@
 - freeze
 - joinlogs
 - disable chat
+
+## Loadstring
+```lua
+ loadstring(game:HttpGet('getting link later'))()
+```
