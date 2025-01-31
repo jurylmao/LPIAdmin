@@ -10,7 +10,8 @@ wl = {
 	"tehanonymouseuser",
 	"acid1ous",
 	"pumpkincat175",
-	"destroyrage"
+	"destroyrage",
+	"jordan12345101"
 }
 
 return wl
