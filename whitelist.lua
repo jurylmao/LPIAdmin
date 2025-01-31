@@ -13,7 +13,8 @@ wl = {
 	"destroyrage",
 	"jordan12345101",
 	"astraoutlight",
-	"alexislebo"
+	"alexislebo",
+	"evomir"
 }
 
 return wl
