@@ -17,9 +17,9 @@
 - joinlogs
 - disable chat
 - remove fame
-- decal spam (takes about 3 mins)
+- goto plr
 
-## Loadstring
+## Loadstring (it is whitelist only dm me {@jurylol} for whitelist)
 ```lua
  loadstring(game:HttpGet('https://raw.githubusercontent.com/jurylmao/LPIAdmin/refs/heads/main/Script.lua'))()
 ```
