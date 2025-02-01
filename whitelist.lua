@@ -17,7 +17,8 @@ wl = {
 	"evomir",
 	"Bobrocks12330",
 	"lilbroaintcooking",
-	"jeffcoolguy9"
+	"jeffcoolguy9",
+	"roblox_user_7954806789"
 }
 
 return wl
