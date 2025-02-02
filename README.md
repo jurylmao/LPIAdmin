@@ -18,6 +18,7 @@
 - disable chat
 - remove fame
 - goto plr
+- f3x detector
 
 ## Loadstring (it is whitelist only dm me {@jurylol} for whitelist)
 ```lua
