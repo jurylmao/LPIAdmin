@@ -15,11 +15,12 @@ wl = {
 	"astraoutlight",
 	"alexislebo",
 	"evomir",
-	"Bobrocks12330",
+	"bobrocks12330",
 	"lilbroaintcooking",
 	"jeffcoolguy9",
 	"roblox_user_7954806789",
-	"danchik5009_lol"
+	"danchik5009_lol",
+	"bonesofdeath
 }
 
 return wl
