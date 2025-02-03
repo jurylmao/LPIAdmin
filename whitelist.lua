@@ -20,7 +20,9 @@ wl = {
 	"jeffcoolguy9",
 	"roblox_user_7954806789",
 	"danchik5009_lol",
-	"bonesofdeath"
+	"bonesofdeath",
+	"number1of1055,
+	"potbombwarning"
 }
 
 return wl
