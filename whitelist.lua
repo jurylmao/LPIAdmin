@@ -21,7 +21,7 @@ wl = {
 	"roblox_user_7954806789",
 	"danchik5009_lol",
 	"bonesofdeath",
-	"number1of1055,
+	"number1of1055",
 	"potbombwarning"
 }
 
