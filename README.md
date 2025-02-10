@@ -19,6 +19,8 @@
 - remove fame
 - goto plr
 - f3x detector
+- shutdown server
+- cardrop (requires lpiwrench)
 
 ## Loadstring (it is whitelist only dm me {@jurylol} for whitelist)
 ```lua
