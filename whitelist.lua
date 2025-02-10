@@ -23,7 +23,8 @@ wl = {
 	"bonesofdeath",
 	"number1of1055",
 	"potbombwarning",
-	"superguy9390390"
+	"superguy9390390",
+	"smortingashes"
 }
 
 return wl
