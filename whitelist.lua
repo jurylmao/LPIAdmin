@@ -25,7 +25,8 @@ wl = {
 	"potbombwarning",
 	"superguy9390390",
 	"smortingashes",
-	"donteatthecarstupid"
+	"donteatthecarstupid",
+	"samuelquis"
 }
 
 return wl
